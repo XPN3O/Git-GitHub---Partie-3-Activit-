@@ -1,0 +1,11 @@
+
+
+
+Camarade, 
+
+Je me dois te parler d'une découverte particulierement utile et pratique que j'ai faite cette semaine.
+
+Git ! C'est un logiciel de versionning (délocalisé) et qui en plus te permet de réaliser un suivi de la gestion de ton code ainsi que de ton travail au quotidien.
+
+Pour faire, simple, je fais essayer de me baser sur 3 points qui me semble fondamentaux et que je vais essayer de te décrire de la meilleure manière pour que tu comprennes la plus value que l'adoption de ce logiciel pourrait t'apporter dans ton travail au jour le jour. 
+
